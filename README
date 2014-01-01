@@ -1,0 +1,7 @@
+Given a folder F, filetype X, and filetype Y, extension_changer.py changes all files of filetype X in folder F to filetype Y. In particular, the program is run using:
+
+“python extension_changer.py [folder F] [filetype X] [filetype Y]”
+
+(Note: the filetypes X and Y don’t need a ‘.’, e.g. X can be “mp3” and Y can be “wav”.)
+
+Alternatively, if run with no arguments, the program prompts the user for all necessary information.
